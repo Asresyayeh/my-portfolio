@@ -9,21 +9,21 @@ const Skills = () => {
     {
       name: "MongoDB",
       icon: <SiMongodb className="w-16 h-16" />,
-      level: "Advanced",
+      level: "Expert",
       description:
         "NoSQL database design, aggregation pipelines, and schema modeling",
     },
     {
       name: "PostgreSQL",
       icon: <SiPostgresql className="w-16 h-16" />,
-      level: "Advanced",
+      level: "Expert",
       description:
         "Relational database architecture, optimization, and complex queries",
     },
     {
       name: "Express.js",
       icon: <SiExpress className="w-16 h-16" />,
-      level: "Advanced",
+      level: "Expert",
       description:
         "RESTful APIs, custom middleware orchestrations, and backend security",
     },
@@ -37,7 +37,7 @@ const Skills = () => {
     {
       name: "Node.js",
       icon: <FaNodeJs className="w-16 h-16" />,
-      level: "Advanced",
+      level: "Expert",
       description:
         "Scalable backend systems, asynchronous runtime patterns, and API building",
     },
