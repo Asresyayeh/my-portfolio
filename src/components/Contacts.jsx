@@ -41,7 +41,7 @@ const Contacts = () => {
     emailjs
       .send(
         "service_zwepzbf",
-        "template_soldhe2", // ✅ Your template ID
+        "template_soldhe2",
         templateParams, // ✅ Parameters
         "5n-EWqcovDQvZPJSE", // ✅ Public key
       )
