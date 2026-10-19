@@ -49,7 +49,6 @@ const Contacts = () => {
         console.log("Email sent successfully:", result.text);
         setSubmitStatus("success");
 
-        // Reset form
         setFormData({
           name: "",
           email: "",
