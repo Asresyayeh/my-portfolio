@@ -57,7 +57,6 @@ const Contacts = () => {
           message: "",
         });
 
-        // Clear success message after 5 seconds
         setTimeout(() => {
           setSubmitStatus(null);
         }, 5000);
