@@ -42,7 +42,7 @@ const Contacts = () => {
       .send(
         "service_zwepzbf",
         "template_soldhe2",
-        templateParams, // ✅ Parameters
+        templateParams,
         "5n-EWqcovDQvZPJSE", // ✅ Public key
       )
       .then((result) => {
