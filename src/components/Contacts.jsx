@@ -43,7 +43,7 @@ const Contacts = () => {
         "service_zwepzbf",
         "template_soldhe2",
         templateParams,
-        "5n-EWqcovDQvZPJSE", // ✅ Public key
+        "5n-EWqcovDQvZPJSE",
       )
       .then((result) => {
         console.log("Email sent successfully:", result.text);
