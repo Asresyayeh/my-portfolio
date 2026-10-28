@@ -68,7 +68,7 @@ const Skills = () => {
       case "Expert":
         return "w-full";
       case "Advanced":
-        return "w-5/6"; // Cleaned standard fraction compatibility
+        return "w-5/6"; 
       case "Intermediate":
         return "w-1/2";
       default:
