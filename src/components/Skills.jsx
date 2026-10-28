@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-scroll";
 import { FaReact, FaNodeJs } from "react-icons/fa";
-import { FaLaravel } from "react-icons/fa6"; // Added Laravel icon support
+import { FaLaravel } from "react-icons/fa6";
 import { SiMongodb, SiExpress, SiPostgresql } from "react-icons/si";
 
 const Skills = () => {
@@ -68,7 +68,7 @@ const Skills = () => {
       case "Expert":
         return "w-full";
       case "Advanced":
-        return "w-5/6"; 
+        return "w-5/6";
       case "Intermediate":
         return "w-1/2";
       default:
