@@ -128,7 +128,7 @@ const Contacts = () => {
                 {
                   icon: <FaMapMarkerAlt className="text-white text-xl" />,
                   label: "Location",
-                  value: "Bahir Dar, Ethiopia",
+                  value: "Adiss Ababa, Ethiopia",
                 },
               ].map((item) => (
                 <div
@@ -151,7 +151,7 @@ const Contacts = () => {
               <div className="flex flex-wrap gap-4">
                 {[
                   {
-                    href: "https://github.com/betsiha1994",
+                    href: "https://github.com/Asresyayeh",
                     icon: <FaGithub className="text-white text-lg" />,
                   },
                   {
